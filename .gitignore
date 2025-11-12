@@ -1,0 +1,12 @@
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos secretos
+secreto.txt
+
+# Ignorar archivos temporales del sistema
+*.tmp
+.DS_Store
+
+# Ignorar configuraciones locales
+.env
